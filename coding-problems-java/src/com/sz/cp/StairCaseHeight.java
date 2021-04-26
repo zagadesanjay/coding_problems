@@ -4,6 +4,7 @@ public class StairCaseHeight {
 
 	public static void main(String[] args) {
 		System.out.println("Height = " + height(14));
+		
 	}
 
 	public static int height(int blocks) {
