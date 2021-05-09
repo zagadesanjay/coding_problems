@@ -4,6 +4,8 @@ public class Factorial {
 
 	public static void main(String[] args) {
 
+		// factorial of 0 and 1 is 1
+		
 		System.out.println(factorial(13));
 	}
 	
